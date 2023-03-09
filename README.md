@@ -76,7 +76,7 @@ Other recommended projects:<br>
 ### Installation
 
 We now provide a *clean* version of GFPGAN, which does not require customized CUDA extensions. <br>
-If you want to use the original model in our paper, please see [PaperModel.md](PaperModel.md) for installation.
+If you want to use the original model in our paper, please see [PaperModel.md](PaperModel.md) for installation..
 
 1. Clone repo
 
