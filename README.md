@@ -148,7 +148,8 @@ If you want to use the original model in our paper, please see [PaperModel.md](P
 
 The comparisons are in [Comparisons.md](Comparisons.md).
 
-Note that V1.3 is not always better than V1.2. You may need to select different models based on your purpose and inputs.
+Note that V1.3 is not always better than V1.2. You may need to select different models based on your purpose and inputs
+
 
 | Version | Strengths  | Weaknesses |
 | :---: | :---:        |     :---:      |
